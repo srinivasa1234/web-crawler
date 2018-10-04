@@ -23,6 +23,7 @@ $ npm install
 $ npm run build
 #Run to see the output for 'wiprodigital.com' given as input
 $ ./test_packaging.sh
+
 ```
 
 
