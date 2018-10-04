@@ -19,10 +19,10 @@ $ git clone https://github.com/srinivasa1234/web-crawler.git
 $ cd web-crawler
 # install the project's dependencies
 $ npm install
-# Running the bbuild
+# Running the build
 $ npm run build
 #Run to see the output for 'wiprodigital.com' given as input
-$ /test_packaging.sh
+$ ./test_packaging.sh
 ```
 
 
