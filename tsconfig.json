@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "lib": [
+      "es2015"
+    ],
+    "moduleResolution": "node",
+    "declaration": true,
+    "sourceMap": true,
+    "outDir": "compiled",
+    "module": "commonjs"
+  },
+  "include": [
+    "crawler.ts", "src/**/*.ts", "spec/**/*.ts"
+  ]
+}
