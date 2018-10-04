@@ -19,8 +19,12 @@ Running the build
 
 `npm run build`
 
-Run inside samples folder to check crawlerurls for wiprodigital.com
-`node digital-homepage.js`
+Run
+
+```
+./test_packaging.sh
+```
+
 
 ##### Unit tests
 
